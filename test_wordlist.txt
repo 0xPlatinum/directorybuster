@@ -1,0 +1,8 @@
+7z/
+bc/
+bundle/
+nothere/
+busybox/
+sudo/
+bash/
+sqlite3/
